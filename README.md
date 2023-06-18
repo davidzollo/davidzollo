@@ -8,6 +8,6 @@ Apache Incubator Mentor
 - 👯 I’m looking to collaborate on Apache SeaTunnel 
 - 🤔 I’m looking for help with contributors who'd like to contribute to SeaTunnel project
 - 💬 Ask me about Data integration and Workflow Orchestration
-- 📫 How to reach me: LinkedIn:@david zollo
+- 📫 How to reach me: [LinkedIn:@david zollo](https://www.linkedin.com/in/davidzollo)
 
 
