@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me
+Apache DolphinScheduler PMC Chair 
+Apache SeaTunnel PMC member 
+Apache Incubator Mentor
 
-<!--
-**davidzollo/davidzollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Apache SeaTunnel and Apache DolphinScheduler
+- 🌱 I’m currently learning LLM
+- 👯 I’m looking to collaborate on Apache SeaTunnel 
+- 🤔 I’m looking for help with contributors who'd like to contribute to SeaTunnel project
+- 💬 Ask me about Data integration and Workflow Orchestration
+- 📫 How to reach me: LinkedIn:@david zollo
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
