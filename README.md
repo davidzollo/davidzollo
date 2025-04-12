@@ -1,7 +1,10 @@
 ### About me
 Apache DolphinScheduler PMC Chair 
+
 Apache SeaTunnel PMC member 
+
 Apache Incubator Mentor
+
 Apache Linkis/Celeborn/HugeGraph Mentor
 
 - 🔭 I’m currently working on Apache SeaTunnel and Apache DolphinScheduler
