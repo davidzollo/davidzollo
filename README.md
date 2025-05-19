@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with contributors who'd like to contribute to SeaTunnel project
 - 💬 Ask me about Data integration and Workflow Orchestration
 - 📫 How to reach me: [LinkedIn:@david zollo](https://www.linkedin.com/in/davidzollo) , welcome to connect with me
-- 💬 My WeChat: davidzollo
+- 💬 My WeChat: davidzollo, please feel free to contact me if you have any questions about how to contribute SeaTunnel 
 
